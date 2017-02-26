@@ -13,7 +13,7 @@ Literature Survey:
 In Yelp dataset challenge, many approaches applied in the direction to improve the business. Latent Semantic Indexing (LSI) is among the most basic and well-known technique used in dimentionality reduction. LSI faced several issues due
 to the formulation of the probabilistic model and Probabilistic Latent Semantic Indexing (PLSI) came up as a solution. But even PLSI has problem of over fitting when dealing with small dataset. Our approach will not face problem of over fitting and can deal with any size of data. In another approach by James Huang, Stephanie Rogers, Eunkwang Joo, reviews are broken down into latent subtopics using LDA and then team can predict the star rating for derived hidden subtopic[Reference paper]. Ultimately these ratings per hidden topic can pinpoint the reasons for a restaurant’s Yelp rating. There are primarily two shortcoming of this work. First, It only deals with restaurant as a business. No other business is considered on which this model can be applied. Our project can accommodate any business in given dataset and predict the subtopic which is most relevant to the business. Second, it only predicts the star rating for given review subtopic which increases the chance of ignoring the most relevant subtopic if star rating is does not fit the probabilistic model. We used clustering algorithms to group contextually similar parameters of the obtained bag of words model which allow business owner to easily reconcile the voice of hi/her customer base irrespective of the star rating.
 
-2. Proposed method
+# Proposed method
 
 Approach:
 
@@ -53,7 +53,7 @@ Rationale:
 We have used tf-idf to transform dataset into vector space. Latent semantic analysis(LSA) is an alternative approach which also derive vector space matrix containing word counts per paragraph which is constructed from a large piece of text comparing similar words that occurs in the text. LSA will only applicable for the text which is divided into paragraph and then relationship between paragraph need to be determine. In our project, we have to derive common result from all given review in the dataset therefore we have to consider all review as a chunk of data for particular business. So tf-idf is more suitable approach for vector space matrix.
 
 
-3. Plan
+# Plan
 
 Hypotheses: 
 
@@ -76,12 +76,10 @@ Future Planning:
 In this project, K-Means algorithm was used for clustering. It is observed that similar meaning clusters can be clubbed together in order to provide better clustering. This can be achieved by running semantic analysis on the dataset and merge similar meaning clusters using Hierarchical Clustering.
 
 
-4. Experiments:
+# Experiments:
 
-4a. Results:
-4b. Critical Evaluation:
+Results: In the output File
 
-5. Conclusions:
 
 
 
