@@ -1,8 +1,7 @@
 # DataAnalytics
 Customer Reviews Analysis for any Business 
 
-
-1. Background::
+# Background
 
 
 Problem:
