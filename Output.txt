@@ -1,0 +1,1184 @@
+Name: Mon Ami Gabi
+../BusinessReview/4bEjOyTaDG24SY5TxsaUNQ.json
+there are 501982 items in vocab_frame
+          words
+yelper  yelpers
+you         you
+did         did
+n't         n't
+let         let
+Top terms per cluster:
+
+ recommended
+ highly
+ this
+ definitely
+ place
+ restaurant
+ anyone
+ 'd
+
+
+Cluster 0 titles:
+ mbdw3XrXPCL3VbqtB8kZhQ_10, highly recommended for breakfast
+ ofAhxQ6RWtwXm06gaEGwZQ_14,  especially on a hot day, i'd highly recommend it! the tuna tartar was very good
+ Dmo9ZFxSelhBqR50-jgu6w_9, i'd recommend all of them
+ rf2HPHLdrzGIpzBcvQTFsQ_23,  worth a visit, i recommend this restaurant to anyone in vegas!
+ GCkoKx0bE6mpbv3g0QoUaQ_3,  i would highly recommend the baked goat cheese
+ auc1ygahBATLQ6rjm2mUsg_26,   definitely recommend those
+ eOtx9eN4ue5BRX1ZShFp5Q_8,   i wholeheartedly recommend this restaurant, for both groups
+ xt7H1s4oBtMyLSWmLORuWA_20,  i recommend trying it at least once
+ B729P24iIsy5FVUaADQnFg_10,  recommendable dishes: omelette
+ EISesF20YH9nk1PYPnFcEQ_4, gave us a brief recommendations from the menu
+
+
+ vegas
+ good
+ fries
+ tables
+ came
+ french
+ restaurant
+
+
+Cluster 1 titles:
+ pyfXJOxC3yvCb5HXoBlejQ_7, we were a group of 7 waiting in a cramped dining area
+ Urg_xXut-4JD6R3QWR2YdA_58, staff for a wonderful experience
+ ZApswa3l72RM9HpDrj_sYA_1, i rarely give 5 stars
+ Urg_xXut-4JD6R3QWR2YdA_55,  i would allow someone to take me to the bathroom every few hours only if they promise to give me back my table upon my return
+ Urg_xXut-4JD6R3QWR2YdA_57,      thanks gabi management
+ AFkYlWS8EhofnYEfm2WGww_6, a few others
+ Xk2_Np5Y0cagdAlyqxUbXA_11, ) the hubby opted for the savory dish which consisted of his favorite item: corned beef hash
+ Xk2_Np5Y0cagdAlyqxUbXA_10, waffles are still my favorite
+ Xk2_Np5Y0cagdAlyqxUbXA_17,   coffee is refillable
+ Xk2_Np5Y0cagdAlyqxUbXA_16, your set
+
+
+ great
+ food
+ was
+ experience
+ atmosphere
+ view
+ prices
+ place
+
+
+Cluster 2 titles:
+ pyfXJOxC3yvCb5HXoBlejQ_2, location are great
+ Urg_xXut-4JD6R3QWR2YdA_59, having a really great restaurant!
+ b1xj01KUYqTDeyoypfuWoA_1, great oysters
+ FEclUIfbmYhR7DJ1QiRlkQ_1, great atmospshere, food,
+ 5F2NTKxcUugJvePzqSpiCA_6, the food is always great
+ L1URVzLN-Jw0CU794yAxTg_3,  it was good, but not great,
+ 9sWDPY-ghXiqNbGNIhXoPg_1, awesome food, awesome atmosphere, great staff!
+ bnJSBfcDnn_BGK_2H_QH7Q_21, the ambiance was great
+ NqonyQGDq7NvGabbZaw86g_21,  with the way that most restaurants over charge in vegas, especially on the strip, this was a great place for a great price
+ obnYo0t2g2kkcoKBuhajYg_1, good food, great service, fun atmosphere
+
+
+ service
+ great
+ was
+ good
+ food
+ notch
+ wonderful
+ always
+
+
+Cluster 3 titles:
+ Xk2_Np5Y0cagdAlyqxUbXA_19,  service was great
+ ilxTxbYvxbVA9XpNeW6D8Q_12,     the service itself is exemplary except for the wait
+ IAb5D0evrKhMqzoNagQvQw_8,   the service was charming
+ FHWCCea7V2cfD1sVJtoERw_4,   terrific service!
+ L1URVzLN-Jw0CU794yAxTg_1, came here for breakfast - the service was great, the food was pretty good
+ 90ZMTOkVue1gW2Xed0f9Zw_11, the service was impeccable
+ y61mQ3ZUvVJ3h1HbUqK0LQ_10,    service was great
+ fx_zXftDO9P0FcM_Uhd1bg_1, great service, food
+ T-AqRfWQZtZUHEpTC7vNZg_1, service was slow
+ m1RvUoSN95G040YUMR82nQ_2,  service was great, french toast
+
+
+ was
+ amazing
+ definitely
+ this
+ vegas
+ good
+ lovely
+
+
+Cluster 4 titles:
+ mp9Emm-HmbNpH9UOP0KbRw_23, yum!! http://www
+ mbdw3XrXPCL3VbqtB8kZhQ_12, delicious!! my mom
+ m4GC5Qo6q_dRg0zmHuCr5w_1, very nice french style venue!  great service!
+ _wdgsAegmkFjr3HH2Ceg6Q_10, be careful not to fill up on the loaf of bread they give you! its a bit addicting! the steaks are amazing with french fries you wont want to stop eatting! the beef wellingtion was also top knotch! nothing like a perfectly cooked steak!   enjoy!
+ s3pcWEIUwjs44gucLPnixw_13, gorgeous views of the fountain show!  totally 'winning" status!
+ s3pcWEIUwjs44gucLPnixw_11, i don't even enjoy breakfast, i am pretty damn sure they will make my tastebuds have lil seizures for their yummy dinner! or so i hope! till then
+ J2v9XLzaSjYVLXsFf_RIlA_19, to die for! on your next trip to vegas, this place is a must stop!
+ 5F2NTKxcUugJvePzqSpiCA_3,    love the fresh apple juice!!   this time,   i had the croissant breakfast sandwich
+ t-9eisukBAfoIJawfWoq6A_2,   it is fabulous!!   the experience is started with the warmest, freshest french bread you'll find this side of globe
+ WnecHCB7zEoFPOQUzAJExw_13,  they were quite delectable! i had never tasted anything like this in my life! i was very satisfied with the quality
+
+
+ friendly
+ was
+ very
+ staff
+ service
+ server
+ waiter
+ waitress
+ hostess
+
+
+Cluster 5 titles:
+ 90ZMTOkVue1gW2Xed0f9Zw_16,  she was so friendly
+ DclMhGq5WkrmwNRhXRz5dA_1, service 5 star: very friendly staff
+ aTS8e6ubv8Z3xlx5E6owOQ_4,  our server was friendly
+ ZVrq20WMTDVU5nwSCbVA2Q_5,  service is friendly
+ TBH1IlZXfjMKqCIw5ug_8g_12,  service is friendly
+ HLrGndmuS6mjnNKY4Qs7kg_39,   not too friendly
+ 30-ta9heX-qFR0t1VnFgfg_4,  the staff are friendly
+ UDTiB4CcOyMtgg11qVd2yg_5,  good call, it was pretty busy! we were quickly seated by a friendly hostess
+ J0mCKngV39c7sZMQQDvjMg_6,   service was relatively friendly (note you're going to need a shirt
+ uvuA3lSsohv0YpzXFXAiIg_11,  very friendly,
+
+
+ delicious
+ was
+ food
+ absolutely
+ everything
+ steak
+ baguette
+ butter
+
+
+Cluster 6 titles:
+ Xk2_Np5Y0cagdAlyqxUbXA_14,  delicious
+ OoJ0oz2YBbPu4pVBLmf7Zg_7,  was really delicious
+ BHW3_jtVooTOMU8Rquoh8Q_36,  so delicious
+ gTgbxRzMSPlHE2u_lUKQew_4, delicious
+ w2I1LCE8k8JP4cAAxmJiEQ_4, everything was delicious
+ IT88ar058iPXR_vwwrQsVA_18, delicious
+ dBruIGAkhOWGYSgIsY2ing_5, delicious
+ 3AMC_lqjctEgyvK4MobZVA_7,  from the crisp, delicious baguette
+ 0vdXa4UCASNzpxpPhrKIVA_4, i must say, it was delicious
+ LR0PN9DtZ_BKo4FvW6DfMw_19,   both were delicious, perfectly seasoned options
+
+
+ come
+ definitely
+ vegas
+ time
+ every
+ 'm
+ 'd
+ fries
+
+
+Cluster 7 titles:
+ pyfXJOxC3yvCb5HXoBlejQ_9,    once we were seated it took a while for our waiter to come to us
+ eTjBk9ljl8eSpPf402AfyA_1, we always come here when we are in vegas
+ ilxTxbYvxbVA9XpNeW6D8Q_16,   when you finish the appetizer/soup/salad, you expect the dinner to come at an appropriate time
+ BW4Hnz87GBn1GdToLgID1w_30,  definitely not coming back
+ eaYfrL3MpX3fdrpPkrJIMQ_9,  definitely would come back here for a classy evening out
+ a6KBCISjy_T7iyqBcWLROA_17, 95), which comes with a merlot infused butter
+ UTNkx5HpUEeY2WiMJr1JDQ_16,  we will come back here
+ DMDvjv91Li8hpvTwq_K8mw_7, the food coming in at perfect intervals
+ 61XF_QDpA1eyZbm4zoiNeQ_7,   i love bread so much that sometimes i fill up on it before my entree comes out
+ QjGfH_ryzHE3wULcLz7yNA_14, i plan to come back during my next visit!
+
+
+ frites
+ steak
+ pomme
+ ordered
+ good
+ was
+ fries
+ came
+
+
+Cluster 8 titles:
+ e-NPnhR_krSHlwDeGONaMg_1, *solid place, steak frites variety is great (many different ways to get it done)
+ ts3T_e_bXQm-DqEgHQdOkw_5,  as if i wasn't full enough the steak frites arrived at the table
+ ifva0DcxLeFcBVyLVBkQuA_17, frites
+ OqDrzawAtv2q9nFsJebNdA_7,   the steak frites was a huge portion
+ z2_bvpw-nmqyBiJEXGCgsw_17,   the frites were crispy
+ zKewmFSSegXtC47Q7tvbyg_2, frites
+ HZReS7Fk7panHE3eP68wkA_21,   they all said the frites were kind of weird though
+ IT88ar058iPXR_vwwrQsVA_14,  mine was great, but my boyfriend's steak was even better! their frites were very good as well
+ Hh9yLMP6A4fs0NEIbgEiAA_13,  except these were frites of the highest order
+ pRhsvb010SZSTqrc-VAoOQ_24,  the frite was yummy too, thin crispy french fries
+
+
+ ami
+ mon
+ gabi
+ vegas
+ restaurant
+ was
+ time
+ paris
+
+
+Cluster 9 titles:
+ oCIogBB-tKlwjzh-PMQokw_30, layout reminded us of the cafes we had dined at when we were in europe so mon ami gabi did that correct
+ BHW3_jtVooTOMU8Rquoh8Q_38,  mon ami gabi is located right across from the bellagio, which has a fountain show every night
+ oi8PcMoprk1_wdrSQGJK0A_11,  mon ami gabi is my favorite restaurant for brunch in sin city
+ RlUe4Z-o_6uJaJhD-R2CPw_30, an epic dessert, you should definitely try mon ami gabi
+ CZ5pNf3xDCm9tEaNT3s7yg_1, i should probably point out that my trip to mon ami gabi was a bit atypical
+ aHfY5gXRFV7qmd2URUlJQw_15,   having heard much about mon ami gabi's view - truly awesome sitting 4 feet above las vegas boulevard
+ 5F2NTKxcUugJvePzqSpiCA_2, had to go back to mon ami gabi for breakfast
+ 8HELC5kONJ2K2rCEzfHdLg_19, will go back to mon ami gabi on another trip
+ OTSDqbwff73wuq2Rxun-2w_3, the service -- great job mon ami gabi!
+ -p0Q9YeOWaDgS2phVkt0WQ_1, we went to mon ami gabi in las vegas in november 2011
+
+
+ like
+ feel
+ fries
+ was
+ tasted
+ really
+ chip
+ n't
+ felt
+
+
+Cluster 10 titles:
+ AFkYlWS8EhofnYEfm2WGww_3, all of our plates came out cold (we ordered things like scrambled eggs
+ BHW3_jtVooTOMU8Rquoh8Q_35,  it tasted like a fancy turtle
+ aCCJt12PQg0lcQURSvwdzA_2,  what's not to like
+ HGoX8o35lTv8Z6eobtWpWw_25,  if everything i ordered was too salty for my taste than something's gotta give), but i think it had to be like that to help cover the "unfresh" aroma of the actual snail
+ HGoX8o35lTv8Z6eobtWpWw_21,  just saying (;  my mussels were also a tad on the fishy side, the sauce a bit too salty for my liking but my fries were outta this world deeelicious ! although, i must say that they are definitely not french style frites
+ wngOeSNo6RWXiwxWWwbhfA_1, it was good i like the outside
+ MrXYthhgtuXFy85hy6aneg_9,   the first cup was so weak, it tasted like the original mcdonalds coffee from years ago
+ chqZPPRlFebAuf7mUBZ-cQ_1, audrey dorenbaum made me feel like i was her only client
+ aHfY5gXRFV7qmd2URUlJQw_12,   i laughed like hell when a guy came up
+ L1URVzLN-Jw0CU794yAxTg_7, far between, so i'll most likely be back
+
+
+ onion
+ soup
+ french
+ was
+ ordered
+ good
+ best
+ cheese
+ 've
+
+
+Cluster 11 titles:
+ AFkYlWS8EhofnYEfm2WGww_4, french onion soup so it definitely shouldn't have been cold)
+ dBruIGAkhOWGYSgIsY2ing_2,  first off if you love french onion soup than congrats you just founds the best in the country
+ WnecHCB7zEoFPOQUzAJExw_15,  michelle had ordered the french onion soup
+ PiHKU3P3n-TokUF47EOb7A_11,  i ordered the french onion soup to start off
+ AInt1SZV7iuHBbaV0Gpx-A_13,  very subpar as far as french onion soups are concerned
+ a6KBCISjy_T7iyqBcWLROA_13, caramelized onions,
+ ts3T_e_bXQm-DqEgHQdOkw_2,  this sort of place usually isn't my cup of tea but i will come back for the french onion soup alone
+ RtH69s1vM6m8x9DP3BvDFw_3,   i'd recommend the french onion soup, chicken liver pate,
+ wcfZPyBH_Pi_q9mKIP22zw_1, the food is excellent here! the french onion soup is to die for, the fish
+ 2XnQjWtIzdWBq3U2XcSLyw_8,   we started off with the french onion soup which was by far the cheesiest french onion soup i've ever eaten
+
+
+ people
+ watching
+ great
+ patio
+ strip
+ outside
+ sit
+ place
+ fountains
+
+
+Cluster 12 titles:
+ FEclUIfbmYhR7DJ1QiRlkQ_2, people
+ uHnPw0BaI_9ov864JvFgVQ_12, we said of course because the patio is outside on the strip so you can people watch while eating
+ wxq0Bz1wj7wvg8GjEtrPTA_3,   the patio is an absolutely fantastic place for people watching
+ GnZotYHCIrPuGPKjhXbq2Q_19, the river of people on the sidewalk would be worth it to watch anytime
+ DclMhGq5WkrmwNRhXRz5dA_7,  most people were smiling
+ Wr6ocyv1Bo_7WY4PAcch7A_7,   you also can't beat the view if you're into people watching on the strip
+ WPSXcpJft_HIilL0OsR8MQ_5,   the location is great, i enjoy people watching
+ cI2xkMBwapbLoixdLyGqQg_2,   i would recommend sitting on the patio to people watch
+ SYHthfb8Sv2Z72pqH5mIAA_4, great people watching
+ i-x8b76Hl6kQmv9Jkb0Mdg_2,  the patio seating gives you a great opportunity to do some people watching :) i've been coming to this place a lot because their appetizers are pretty legit
+
+
+ strip
+ view
+ restaurant
+ prices
+ right
+ location
+ great
+ vegas
+ this
+
+
+Cluster 13 titles:
+ OoJ0oz2YBbPu4pVBLmf7Zg_3,  strip side
+ YZvyDEQMNsZ8a7sl98fcgw_1, great atmosphere, with terrific views of the strip nightlife
+ CoH9YooXdD6njOH0wInTTQ_14,  it's right in the strip, but the food was reasonably priced for the location
+ 1gIssBPusg1Ieww-WV-q3Q_24,  the ny strip was served 2 temperatures overcooked
+ vf9NddnKYiHpJzIPo3tP1w_11, better brunch off the strip so i don't bother with brunch here
+ BHW3_jtVooTOMU8Rquoh8Q_3,  it's located in the paris casino on the vegas strip
+ tSbwn7AKpsS_XFauWl16jg_1, this is my favorite spot in the strip, too bad they keep messing up on food 3 several time in a row
+ 0fBurYlsBOYRVCaQYU8XRg_5,  we had a fantastic view of the las vegas strip
+ SRTPA2fGr35-eOgmKv_a4Q_2,   we'd sit on the patio overlooking the strip
+ hu1WyBE6vJrZFC_jT4xnKQ_8,   this is one of few if not the only patio restaurant located right on the strip
+
+
+ super
+ was
+ friendly
+ yummy
+ server
+ nice
+ tender
+ service
+
+
+Cluster 14 titles:
+ AFkYlWS8EhofnYEfm2WGww_5,  the service was additionally super slow even though the restaurant was empty besides our group
+ HGoX8o35lTv8Z6eobtWpWw_27, so it needed the super carb of the bread to help soak it up
+ pRhsvb010SZSTqrc-VAoOQ_27,  i was super stuffed! i would come back again for the oysters
+ yZ-XOxrnx9QKGCgDxIFRag_2, wine was amazing, but the super high price is going to make this a 4-star
+ 130iq383iXdaC4z0ouQSrw_12,  the hollandaise sauce was super good too!
+ k_tTPtzH38hJH7_2Of-hFQ_11,  i was super impressed with the blueberries they used because each one was nice
+ GD1-m4tGp6gUrlswWGZPJA_6,   service is very good too, our server was super enthusiastic, i wish i could remember her name
+ oQhQ2bMrsqYb6N-F2JVOxA_10, was super pleasant, so no complaints there! the prices were absolutely reasonable considering the fact that it is vegas after all
+ FBBOR2CPfR1xH8366_cEXA_9,    their prime steak sandwich is actually super tasty
+ LEtvGJexc1DJwxE2hPYwLQ_8,  super super impressed
+
+
+ seated
+ patio
+ outdoor
+ outside
+ waiting
+ right
+ away
+ was
+ minutes
+
+
+Cluster 15 titles:
+ pyfXJOxC3yvCb5HXoBlejQ_8,  there should be some additional seating by hostess stand for waiting or a better receiving/waiting area
+ CZ5pNf3xDCm9tEaNT3s7yg_2,   a lot of reviews noted how long the wait was to get a table, but the five of us were fortunate enough to get seated outside immediately
+ dBruIGAkhOWGYSgIsY2ing_8,  one down note is that they only take reservations for inside seating which i find strange considering outside seating is more popular
+ rFXzCS3PRE1cKUsT7I9VwA_2, 5*  there's no line on a weekday around lunchtime! made a reservation but there was plenty of outdoor seating :) i felt so lucky
+ guclh5t3IL936JzdCiRUyw_4,   we did not want outdoor seating as it was 107 already
+ guclh5t3IL936JzdCiRUyw_5,   we were pleasantly seated in the porch area
+ sryIF-TRh-KzWuA_d7aaIg_3, was seated quickly
+ 0fBurYlsBOYRVCaQYU8XRg_3, i were seated right away
+ Af8-BkdTo7ITR45afegKIQ_2,  after arriving to the restaurant at around 9pm, it was roughly an hour wait to be seated
+ hQ_4gplsExcYX3lOcByw0Q_2, your final bill will be much lower than other restaurants right on the strip the outdoor patio is all the rage but you will probably have to wait for a while indoor seating is very nice
+
+
+ just
+ was
+ ok
+ right
+ food
+ good
+ n't
+ like
+ okay
+
+
+Cluster 16 titles:
+ Xk2_Np5Y0cagdAlyqxUbXA_15, just add some hot sauce
+ z2_bvpw-nmqyBiJEXGCgsw_19,  it was a high quality cut, but the flavor of the steak just wasn't there for some reason,
+ aHfY5gXRFV7qmd2URUlJQw_11, the people just heading home
+ dBruIGAkhOWGYSgIsY2ing_3,  i would literally fly to las vegas just to get the soup again
+ nr56t9GGPugqYfVycV3_wQ_11, when i got my food, i just wanted to eat it so fast
+ Hh9yLMP6A4fs0NEIbgEiAA_14,   the evening was just so right that i ordered a girl drink, which was also delicious
+ oQhQ2bMrsqYb6N-F2JVOxA_14,  i want to give it 5 stars, but i will just have to wait
+ jVUfl1dubV6Jk3BDnKfzzw_2, just can't beat the delicious food
+ E2I5PVRpNW8-Z-bZKQ_gIw_3, although i knew i should have come here for breakfast, it just wasn't happening with the party i was with
+ CZeAJlQSMEM5PlftDdipcg_22,    he had this way of just making everything perfect,
+
+
+ time
+ this
+ vegas
+ was
+ every
+ 'm
+ try
+ second
+
+
+Cluster 17 titles:
+ ilxTxbYvxbVA9XpNeW6D8Q_14, the soup came on a reasonable time but the entree was really a long wait
+ g-db2O2VBEu0XBvLeRO0lg_3,   i make sure to have one meal here every time i'm in vegas,
+ tAEjUDvjSY4m1g7aOnSXpQ_24,  last time i tried the classic quiche which is phenomenal as well
+ fNoEyuXQ5m4SihRbSLvgmA_9, thin all at the same time
+ nr56t9GGPugqYfVycV3_wQ_9, by time we ended, i was sweating
+ xlGY1i9FnrmmvLpGuzeLHQ_13,  had they been operating at the time
+ oQhQ2bMrsqYb6N-F2JVOxA_12,  i will be back here next time
+ yIcGH0lI3-UtsaMv9FHnYA_1, this is my go-to spot for brunch in las vegas, have been likely over 10 times
+ KWnjvlh2m7lDZI2VzrS9oA_23,  definitely an everyday kind of bordeaux, something you can drink all the time
+ KWnjvlh2m7lDZI2VzrS9oA_21, ready in record time! for our apps, drinks
+
+
+ free
+ gluten
+ menu
+ bread
+ offered
+ was
+ option
+ baguette
+
+
+Cluster 18 titles:
+ uHnPw0BaI_9ov864JvFgVQ_19, when he knocked one of our mimosas over (which was less than half full,) he gave us 2 more for free
+ RaofQe7i0dfIiKEWlLnsWQ_3, great service also accommodating our gluten free friends at the table
+ MTeL6K1XCbbnawqdIszpEw_12,   free refills, as with any other place
+ aTS8e6ubv8Z3xlx5E6owOQ_6,  i am gluten allergic
+ rLCal6GCtg9Md9d2d4zXqA_5,  they have a gluten free menu
+ rLCal6GCtg9Md9d2d4zXqA_4, quinoa  chicken pâté   i've always loved this restaurant when i lived in vegas, but i think it's become my favorite one especially because they are gluten free friendly
+ rLCal6GCtg9Md9d2d4zXqA_7,  my family even had food off the gluten free menu
+ rLCal6GCtg9Md9d2d4zXqA_6, are also able to modify recipes to be gluten free!   everything was tasty
+ rLCal6GCtg9Md9d2d4zXqA_8, they couldn't tell the difference! the gluten free menu comes with gluten free bread, butter,
+ MH4V7VIXbTEd_19fAmCbXQ_11, they provide amazing gluten free bread before dinner
+
+
+ outside
+ sit
+ patio
+ waiting
+ tables
+ sat
+ was
+ inside
+ wanted
+
+
+Cluster 19 titles:
+ lqKXUcrPcjPQr2c6knSWeg_9,  well, our table was in the lobby connected to the patio outside
+ IAb5D0evrKhMqzoNagQvQw_7,   (would have wanted to sit outside but it was cold in vegas)
+ jR3SgM6Gcen57IX2f1WW3Q_11, sitting in the morning shade while drinking coffee
+ WnecHCB7zEoFPOQUzAJExw_10,  after about sitting for 15 minutes, our server came to to greet us
+ ofAhxQ6RWtwXm06gaEGwZQ_11,  we just ended up waiting 15 minutes to sit at the patio (they do not take reservations for the patio) so that we can watch the bellagio fountain show! sitting in the patio can be quite romantic
+ 7uZxdOJ0mpL_kWBMJMj7Wg_7,  to sit outside, it takes about 30-45 minutes, but we were all too famished to wait any longer
+ 8xwd4HDkXNeP3hyWaVOtoA_7, a half for outside
+ lEJR0gvTEn77eBUN1MHVAg_9, i'd like to sit on the patio
+ DUhURsYS5ICJL7KVfe-Kag_3,  the hostess gave us the option to sit inside or outside
+ I_t-NOOjqVZGKNBMQnSmVg_6,  she got stuck with a big group so we were sitting
+
+
+ 've
+ best
+ time
+ eaten
+ was
+ better
+ before
+ steak
+
+
+Cluster 20 titles:
+ JPHOKiabHWondBFW_Q6Sxg_1, i've been here twice,
+ fNoEyuXQ5m4SihRbSLvgmA_6,  i've wanted to try one of these sandwiches for a while
+ t-9eisukBAfoIJawfWoq6A_1, i am pretty sure, every time i've ever visited vegas (which is a lot), i've made it a point to visit mon ami gabi
+ 5s2M8RZiqXm6WFzNvKvE4Q_19,   definitely not the best i've had
+ hb3Meni35Zfccr7qmhdpmw_7,  i think my favorite item that i've tried is the chicken crepe
+ vf9NddnKYiHpJzIPo3tP1w_10,  however, i've had cheaper
+ R_pgkRsuvfZs02DdZCjmDQ_1, thanks to yelp, i've suggested this restaurant twice, once when i was with a bunch of girlfriends
+ wxq0Bz1wj7wvg8GjEtrPTA_8,   i've tried a half dozen or so items, but always seem to return to my favorite - steak
+ hu1WyBE6vJrZFC_jT4xnKQ_1, top ten restaurants i've ever eaten at
+ IBqvbbxGurgCIM-2sC2PlQ_22,  yes, they've got a kid's menu
+
+
+ eggs
+ benedict
+ poached
+ ordered
+ was
+ salmon
+ beef
+ hash
+ perfectly
+
+
+Cluster 21 titles:
+ Xk2_Np5Y0cagdAlyqxUbXA_12,  luckily for me, i taught my hubby to eat poached eggs
+ mbdw3XrXPCL3VbqtB8kZhQ_11,   food - i had the smoke lox eggs benedict
+ mbdw3XrXPCL3VbqtB8kZhQ_14, tomato eggs benedict, they were signing its praises all day long
+ gTgbxRzMSPlHE2u_lUKQew_2,   the eggs benedict was also great
+ kL3hnUAT755FVPfqAPFouQ_4,     [frisee & warm bacon salad with soft-poached egg, croutons]  -- absolutely delicious! the poached egg is an amazing addition
+ -cw1fIX6bd_UyKfBxWqfhQ_29,   unfortunately, the fried egg was quite burnt around the edges
+ OvozyThlcA3K6sljosEYHQ_3,  we ordered smoke salmon egg benedict, blueberry pancakes
+ KHol3rzbWdNNomaxclOevg_5,   i took 2 bites of my not even warm eggs
+ KHol3rzbWdNNomaxclOevg_6, found a hair in my eggs
+ KHol3rzbWdNNomaxclOevg_3,     i ordered three eggs that came with bacon, hash browns
+
+
+ wine
+ glass
+ red
+ listed
+ selection
+ sauce
+ bottle
+ was
+ great
+
+
+Cluster 22 titles:
+ g-db2O2VBEu0XBvLeRO0lg_9, mon ami does wonderful things with their steaks!  carmelized onion with red wine,
+ ssT4abqSHLk8chht7SYxFg_29,  they do have wine by the glass,
+ ssT4abqSHLk8chht7SYxFg_28, was cheaper than getting multiple cocktails or ordering a full bottle of wine
+ 5Ho6kxb5TEp-u_a7mztIKQ_22,  the red wine reduction was intense
+ v3tUjR5PDAKHTgrjXludjA_8,  the best part is i ordered wine by the glass
+ 90ZMTOkVue1gW2Xed0f9Zw_18, wine
+ 90ZMTOkVue1gW2Xed0f9Zw_15, she new the perfect wine to pair with the dish
+ AInt1SZV7iuHBbaV0Gpx-A_16, red wine sauce) while the bf had the steak au poivre (brandy peppercorn sauce)
+ LR0PN9DtZ_BKo4FvW6DfMw_11,   wine by the glass was reasonably priced,
+ o1kizynVgQqtfGFPZGCPMQ_7,  mussels - mussels were not fresh fresh but the white wine with herb sauce was flavorful
+
+
+ steak
+ was
+ cooked
+ hanger
+ bordelaise
+ perfectly
+ got
+ good
+ sandwich
+
+
+Cluster 23 titles:
+ nY85TzYxam3SEGXljz97Ag_3,  i'm not a steak eater but i have to say i really enjoyed my food, especially the steak
+ HGoX8o35lTv8Z6eobtWpWw_29,  (it was one of my favorites in france, along with the steak roquefort
+ OqDrzawAtv2q9nFsJebNdA_8,  steak was cooked perfectly
+ jbT1FnKL4mzHbF8dgoWsHQ_10, my parents had the steak roquefort that they absolutely loved
+ IT88ar058iPXR_vwwrQsVA_10, we had some of the best steak here
+ 16qFKIB9temy7HEGlXqzmw_8, began my wonderful evening of drinking whiskey, eating an excellent steak frites plate (french style steak
+ PiHKU3P3n-TokUF47EOb7A_14,  main course for me was the steak bordelaise
+ qV87yEs08QKd1PECMOTocA_6,   the steak was average size
+ -epPZlVPiro7aFPjpSp2iw_5,   the steaks arrived
+ YZvyDEQMNsZ8a7sl98fcgw_9,  my steak au poivre was chewy
+
+
+ attention
+ was
+ very
+ service
+ server
+ staff
+ waiter
+ waitress
+ waiting
+
+
+Cluster 24 titles:
+ TH4h3nxJXc_aEj0gzfo5rw_2, and the attention is on keeping you inside a casino or design elements
+ aDA8XvG-QoZPdv9Clvs4LA_2,   the waiters were incredibly attentive
+ HBT04C3Y4nQrg4-SXgO2iQ_3,  the food pays close attention to detail
+ F5i3-GD8Wts5OLtH8w1lDg_3,  she was so attentive
+ A0VVw0eBLXs2VhnL6bmoWQ_11,  our waiter was attentive
+ Wp99A3zO4xdlVWA1QC1kGg_19,  he was fairly attentive for a busy sunday
+ zqdPqz5SZvvv3wl_v1O0TQ_3,  our waitress was attentive to our needs
+ dDSbJr2ZIbrTUaGUW_QWhw_7, the staff is attentive
+ KSvl_OMFQn7MfIdQxqZB9Q_10,   the service was very good, attentive, helpful
+ 9ioGN2TOnehDgsZShVImkQ_17,   the wait staff is attentive without being obtrusive,
+
+
+ bread
+ was
+ pudding
+ warm
+ french
+ fresh
+ served
+ good
+ butter
+
+
+Cluster 25 titles:
+ OoJ0oz2YBbPu4pVBLmf7Zg_4,  excellent warm bread to start
+ ilxTxbYvxbVA9XpNeW6D8Q_19,   one more thing, great warm bread
+ b1xj01KUYqTDeyoypfuWoA_3,  good bread
+ fNoEyuXQ5m4SihRbSLvgmA_4,  the bread was perfectly buttered
+ IT88ar058iPXR_vwwrQsVA_17,    for dessert, i ordered their bread pudding which was moist
+ nr56t9GGPugqYfVycV3_wQ_19,     i do like the bread they gave us while seated
+ A3GZE9AxIJ8qDGZhK9Rqqg_12,  they had a pumpkin bread pudding (and i'd never had bread pudding before), which i tried,
+ -cw1fIX6bd_UyKfBxWqfhQ_21, quite dry while the toasted bread was dry, hard
+ 0vdXa4UCASNzpxpPhrKIVA_5,  large slices of bread, fresh blueberries, whipped cream
+ 01L6g2x-xvBewFIZ787Jsw_21, the butter which melted on the bread upon contact was wonderful
+
+
+ dinner
+ came
+ went
+ was
+ night
+ vegas
+ romantic
+ nice
+ time
+
+
+Cluster 26 titles:
+ Urg_xXut-4JD6R3QWR2YdA_54, dinner
+ ifva0DcxLeFcBVyLVBkQuA_14,  for dinner it was dimly lit
+ OqDrzawAtv2q9nFsJebNdA_2,  it was a perfect spot for our anniversary dinner
+ OqDrzawAtv2q9nFsJebNdA_4,  so relaxing to have a nice dinner
+ oQhQ2bMrsqYb6N-F2JVOxA_13, try their dinner menu
+ 5Ho6kxb5TEp-u_a7mztIKQ_25,  did i mention dinner was perfect
+ s_heD3ZR47J9iBsnqyalTg_1, we came here for dinner
+ R_pgkRsuvfZs02DdZCjmDQ_2, the second for a company dinner
+ BJ2Xgue4i8wOXobW-2Ue5w_2, stopped in for dinner with a co-worker
+ 35_YsDYClvptZJvrxmg9Qg_10,   overall a solid spot for dinner with a view
+
+
+ disappoint
+ was
+ did
+ n't
+ service
+ this
+ food
+ bit
+ very
+
+
+Cluster 27 titles:
+ BHW3_jtVooTOMU8Rquoh8Q_6, it did not disappoint
+ 8HELC5kONJ2K2rCEzfHdLg_18,  i never leave disappointed
+ 5F2NTKxcUugJvePzqSpiCA_7,     if you are in vegas, this is a must try!   you will not be disappointed
+ GQP4rdwQRmBZDCqVK4yzog_6,  they never disappoint
+ rJMzhL24sEyHPgs_fZ4W6g_6, frites as they won't disappoint!
+ 9lTczWmsSiQnbTg8RvPs-A_2, was disappointed
+ pIReCG5zMtcUOPYI91_WkA_21, have never been disappointed
+ 9O4rPzOh14tr6V-hsLkbPg_22,   service was disappointing
+ bXP90ZRcnVgWhWtiKpat8Q_1, disappointed!  i came here with friends for lunch
+ HyNkob9HVR9EYdO1v8juRg_12,  the food here never disappoints
+
+
+ lovely
+ food
+ restaurant
+ this
+ atmosphere
+ steak
+ was
+ everyone
+
+
+Cluster 28 titles:
+ mp9Emm-HmbNpH9UOP0KbRw_21, lovely
+ XM6eXi0MHcyCCDdwnIoCeA_1, i love the crepes
+ OTSDqbwff73wuq2Rxun-2w_2,  love the atmosphere
+ di3tS4SgFfOFRsj1pVFQzg_4, we loved it
+ pRhsvb010SZSTqrc-VAoOQ_23,  i loved the little pickles that came with it
+ sryIF-TRh-KzWuA_d7aaIg_1, i loved having brunch here
+ obnYo0t2g2kkcoKBuhajYg_5,  luckily i love both
+ 1jVrwixIaGFuCiTupT0XSw_2,  my girlfriend loves everything french, especially the food
+ RmI9ihEIYTZyqKbsqRV_vg_12,  the husband loved the paillard
+ KWnjvlh2m7lDZI2VzrS9oA_27,  i love brie
+
+
+ filet
+ mignon
+ butter
+ merlot
+ was
+ ordered
+ sauce
+
+
+Cluster 29 titles:
+ IAb5D0evrKhMqzoNagQvQw_3, fillet mignon
+ IT88ar058iPXR_vwwrQsVA_13, i ordered their filet mignon au poivre
+ IT88ar058iPXR_vwwrQsVA_12, it was the most tender steak ever! he ordered the filet with merlot butter
+ IT88ar058iPXR_vwwrQsVA_11,  we opted for the filet mignon
+ 5Ho6kxb5TEp-u_a7mztIKQ_24,  the filet mignon was super tender
+ 5Ho6kxb5TEp-u_a7mztIKQ_20, they soaked up the red wine reduction from the filet mignon
+ LR0PN9DtZ_BKo4FvW6DfMw_16,    the filets were more than 8oz each,
+ LR0PN9DtZ_BKo4FvW6DfMw_15,   we both got the filet mignon, so i cannot speak to their standard steaks
+ a6KBCISjy_T7iyqBcWLROA_16,    another staple is the filet mignon merlot ($34
+ a6KBCISjy_T7iyqBcWLROA_19,  the filet (medium rare for me) is always perfectly cooked
+
+
+ salads
+ was
+ salmon
+ caesars
+ bacon
+ ordered
+ spinach
+ frisee
+ carrots
+
+
+Cluster 30 titles:
+ ZJQIjGbXPMazMh4NQwZhKw_10, salads
+ ilxTxbYvxbVA9XpNeW6D8Q_13,   the salad
+ Sp_80FsA28mX4nXx0cpNHQ_4, great people watching!  some things we've had: seafood crepe scallops chicken & brie sandwich steak sandwich salmon salad
+ nr56t9GGPugqYfVycV3_wQ_16,   we also shared a salad with shaved asparagus
+ oPccsfwaZXq7Vq3_yiIPYg_11, toasty  salad warm goat cheese salad - excellent salad with roasted tomatoes,
+ t-9eisukBAfoIJawfWoq6A_3,   it's served with a yummy salad of carrots
+ WnecHCB7zEoFPOQUzAJExw_19, spinach salad
+ 5s2M8RZiqXm6WFzNvKvE4Q_15,  the salad was absolutely delicious!  salmon was cooked perfectly
+ 5s2M8RZiqXm6WFzNvKvE4Q_14, spinach salad
+ HkPLTWRkgJP5-5FmQD5miA_7,   i ordered an open-faced crab salad sandwich
+
+
+ bellagio
+ fountains
+ view
+ patio
+ water
+ great
+ street
+ watching
+ seated
+
+
+Cluster 31 titles:
+ pyfXJOxC3yvCb5HXoBlejQ_1, view
+ ilxTxbYvxbVA9XpNeW6D8Q_11, its outdoor patio has the view of the dancing fountains of bellagio
+ nY85TzYxam3SEGXljz97Ag_2, watch the fountains of bellagio
+ gTgbxRzMSPlHE2u_lUKQew_5,   great view of the fountains at bellagio
+ IAb5D0evrKhMqzoNagQvQw_6, got to sit right inside the windows facing the bellagio fountain
+ kL3hnUAT755FVPfqAPFouQ_2, in view of bellagio fountains
+ OqDrzawAtv2q9nFsJebNdA_1, directly across from the bellagio
+ OqDrzawAtv2q9nFsJebNdA_6,   indoor/ outdoor feel on the patio was a perfect mix of ac with a view of the bellagio fountains
+ FEclUIfbmYhR7DJ1QiRlkQ_3,  right in front of the bellagio
+ aHfY5gXRFV7qmd2URUlJQw_16, directly across from the fountains at bellagio - i must admit i'd heard mixed reviews of the food
+
+
+ scallops
+ wife
+ sea
+ seared
+ ordered
+ entree
+ was
+ appetizers
+ caramelized
+
+
+Cluster 32 titles:
+ g-db2O2VBEu0XBvLeRO0lg_4, here are my favorites:  sea scallops gratinee- one of the best scallop appetizers i've ever had, this is a wonderful way to start your meal
+ IAb5D0evrKhMqzoNagQvQw_2,   loved it!  had a scallop appetizer, endive salad,
+ kL3hnUAT755FVPfqAPFouQ_6,   [sea scallops, butternut squash puree, brussels sprouts, hazelnuts, brown butter] -- scallops were cooked perfectly, large portion but needed more salt
+ sRHyowYdt6LZI_QL7vIKkw_2, i had the seared sea scallops
+ zKewmFSSegXtC47Q7tvbyg_3,   my wife
+ CZ5pNf3xDCm9tEaNT3s7yg_9, i both wanted to try the sea scallop gratinées, we decided to share an order while i went with the croque monsieur for myself
+ TH4h3nxJXc_aEj0gzfo5rw_7,    the wife
+ oPccsfwaZXq7Vq3_yiIPYg_15,  scallops
+ WnecHCB7zEoFPOQUzAJExw_12,  i had ordered the sea seared scallops
+ pRhsvb010SZSTqrc-VAoOQ_28, scallops!
+
+
+ special
+ nothing
+ was
+ ordered
+ night
+ day
+ fish
+ menu
+ daily
+
+
+Cluster 33 titles:
+ mbdw3XrXPCL3VbqtB8kZhQ_13, gf had the special which was a spinach
+ obnYo0t2g2kkcoKBuhajYg_3,  order extra bread to soak up the delicious wine sauce!  on the specials menu, the alaskan char was described as somewhere between salmon
+ mHJmRirl4l01_rDEANiWbg_2,  for breakfast nothing special save a few dollars
+ R_pgkRsuvfZs02DdZCjmDQ_9, more special items like lamb, olives in a jar, etc
+ 4KdY8OVNqgOtV28GZli_rg_13, 95): i liked the chicken, but nothing really struck me as special
+ NxTAYD2pEuIJb--M_QYo6A_5,  nothing special
+ JTuOtuPyjKfUIeyEmvv4qQ_3,  not here! you'll get fantastic service, wonderful food, in a special environment all for a reasonable cost
+ ZVrq20WMTDVU5nwSCbVA2Q_4,  nothing special
+ c5vKJPOBrF7v-mxYIG_3NQ_3, the special, duck a l'orange, with a side of ratatouille
+ 2XnQjWtIzdWBq3U2XcSLyw_4, began to walk away as she was finishing up telling us about the specials
+
+
+ meal
+ was
+ enjoyed
+ this
+ great
+ best
+ vegas
+ ended
+ good
+
+
+Cluster 34 titles:
+ Pmfpwoui7QmRC89m8tzqvg_2, really enjoyed our meal
+ ifva0DcxLeFcBVyLVBkQuA_11,  served in a chilled martini glass, it is the perfect accompaniment to such a fine-tuned meal
+ sRHyowYdt6LZI_QL7vIKkw_4, delicious meals we have had together
+ IT88ar058iPXR_vwwrQsVA_16,  we each had a glass of pinot noir to accompany our meals
+ 8MIdoQriMiStcRn9NifwAw_15,  my boyfriend got an amazing steak (27 dollars) made my meal look like a toddler's meal:) my meal, although small in size, was very delicious
+ 3AMC_lqjctEgyvK4MobZVA_3, had relatively few meals on our own
+ cusiw1xAhds30E7YnbZ0Mw_11,  it totally wasn't a happy birthday meal
+ 2qEP2n01hhKtGQSeP2r--Q_2, oil, a great start to any french meal
+ PiHKU3P3n-TokUF47EOb7A_19,  one last thing i forgot about this meal is if you do not like super salty food don't come here! overall it was an a-okay meal
+ sryIF-TRh-KzWuA_d7aaIg_9,  this was the highlight of the meal
+
+
+ 's
+ vegas
+ restaurant
+ was
+ worth
+ good
+ place
+
+
+Cluster 35 titles:
+ Urg_xXut-4JD6R3QWR2YdA_51,    i am sooooooo sorry that i went to gabi's on my last day in vegas
+ zOZ8Wtx2qdfq9xvtYiaSPA_6,   let's get back to the food
+ B7OZRKm4cP9d1dRTKPZUZg_22,   we all know how crazy it gets during the night, so it's a nice time to spoil yourself
+ zKewmFSSegXtC47Q7tvbyg_1, wow!  that's all i have to say about their steak
+ zKewmFSSegXtC47Q7tvbyg_4, i ate breakfast there, but it's probably really awesome at night because it has a direct view of the bellagio water/light show
+ L1URVzLN-Jw0CU794yAxTg_5,  but, hey, that's vegas
+ Hh9yLMP6A4fs0NEIbgEiAA_16, what's with the numbers
+ ofAhxQ6RWtwXm06gaEGwZQ_17,  i forget exactly what it's called, but something with almonds
+ -epPZlVPiro7aFPjpSp2iw_6, her's was cooked right on the mark
+ Wnq7GzXfx6f2tcZbGv8XVw_11, you really need to try that ahu tuna burger - it's very moist (contrary to the name)
+
+
+ lunch
+ went
+ came
+ time
+ dinner
+ breakfast
+ was
+ place
+ great
+
+
+Cluster 36 titles:
+ Urg_xXut-4JD6R3QWR2YdA_53, eaten there every day breakfast, lunch
+ OoJ0oz2YBbPu4pVBLmf7Zg_1, came here for lunch
+ ts3T_e_bXQm-DqEgHQdOkw_1, stopped in for a business lunch
+ fH1snZYYJAqFhZ7-ZC4PHw_4,  the restaurant is open for breakfast, lunch,
+ fNoEyuXQ5m4SihRbSLvgmA_2,  it was a great lunch we had, sipping rose champagne while eating our food
+ AG7fXHHZn1tT6yQ3_u8w8w_12,  yes, she always orders a sangria, even with lunch
+ 0q14xKQPydnD0BOrZ63txA_3,   lunch is still a great option while the sun is out
+ HkPLTWRkgJP5-5FmQD5miA_12, 95 for lunch
+ ZU0fbXadrrHpqpUVk5dDtg_3, lunch
+ m1RvUoSN95G040YUMR82nQ_5,   price is very reasonable vegas, i would defiantly come back here for again for lunch
+
+
+ breakfast
+ vegas
+ morning
+ came
+ went
+ great
+ place
+ this
+ menu
+
+
+Cluster 37 titles:
+ B7OZRKm4cP9d1dRTKPZUZg_20, just have a nice breakfast every once
+ L1URVzLN-Jw0CU794yAxTg_6,  however, breakfast places in vegas are few
+ sryIF-TRh-KzWuA_d7aaIg_7,  it was actually on the breakfast menu & even though we arrived for brunch they had no problems letting us order it
+ 0vdXa4UCASNzpxpPhrKIVA_2,  i had breakfast here one morning
+ fx_zXftDO9P0FcM_Uhd1bg_3,  we loved it fro breakfast!
+ RmI9ihEIYTZyqKbsqRV_vg_17,   going by all the reviews, it sounds like we'll have to try their breakfast
+ mHJmRirl4l01_rDEANiWbg_3, go to the regular cafe in paris for breakfast same type of food but cheaper
+ XrZETOulBu03tTunw7-m-A_3,  seems even for breakfast, reservations a must
+ Jupsoyv8VssybUOv4E936w_1, we came here for breakfast before the long drive back home
+ EF_Wz8X9Pa3yVNRzW4jcLw_9,  on saturday for breakfast
+
+
+ ordered
+ steak
+ was
+ medium
+ chicken
+ salmon
+ rarely
+ appetizers
+
+
+Cluster 38 titles:
+ fNoEyuXQ5m4SihRbSLvgmA_3,  i ordered the croque monsieur
+ fNoEyuXQ5m4SihRbSLvgmA_7, had to take the opportunity to order one
+ 8MIdoQriMiStcRn9NifwAw_13,  so i ordered a side of asparagus
+ 8MIdoQriMiStcRn9NifwAw_16,  i don't see myself ordering that dish in the future
+ 2qEP2n01hhKtGQSeP2r--Q_4,  ordered the steak with carmelized onions
+ WnecHCB7zEoFPOQUzAJExw_18,  sharmendra ordered the grilled salmon
+ WnecHCB7zEoFPOQUzAJExw_14,  my friend jennifer ordered the hangover steak, which she thought was divine
+ WnecHCB7zEoFPOQUzAJExw_11,  after taking our orders, we waited another 15 to 20 minutes to get our food
+ ssT4abqSHLk8chht7SYxFg_24,    we had also ordered a carafe of sangria (billed here as "frangria"),
+ -epPZlVPiro7aFPjpSp2iw_4, i both ordered bone-in ribeyes medium-rare plus (cooked a little past medium rare)
+
+
+ very
+ good
+ was
+ tasty
+ prices
+ reasonable
+ flavorful
+ fresh
+ food
+
+
+Cluster 39 titles:
+ mbdw3XrXPCL3VbqtB8kZhQ_19, it was very flavorful
+ ehfJqN-AhPmur0EKdAQ44w_1, very good eating experience
+ jbT1FnKL4mzHbF8dgoWsHQ_11,  very tender
+ FEclUIfbmYhR7DJ1QiRlkQ_4,  the food is very tasty
+ CZ5pNf3xDCm9tEaNT3s7yg_5, and possibly a very different review
+ 2cbXPYor7UJrtOGm1Ro47Q_2, they were very accommodating for our ten month old baby
+ Rt-7_YwetwWa12qeQjfnpg_20,  all in all a very decent place to grab a bite
+ WnecHCB7zEoFPOQUzAJExw_17,  she was very content with what she had ordered
+ iug3DfdV3G4lVpt8FSzXxw_5,  the place was packed, but i was very happy with our spot
+ v3tUjR5PDAKHTgrjXludjA_9, it was very good
+
+
+ friend
+ ordered
+ 's
+ came
+ got
+ birthday
+ dinner
+ was
+ steak
+
+
+Cluster 40 titles:
+ b1xj01KUYqTDeyoypfuWoA_9,  tasted my friend's ahi tuna burger, which was also very good
+ HGoX8o35lTv8Z6eobtWpWw_28,   that night, the friend that brought me had ordered a steak bearnaise on my recommendation
+ zOZ8Wtx2qdfq9xvtYiaSPA_2,  maybe you beat up your friend the stomach with too many cocktails
+ CZ5pNf3xDCm9tEaNT3s7yg_8,   since my friend
+ w2I1LCE8k8JP4cAAxmJiEQ_2,  my friends
+ 5F2NTKxcUugJvePzqSpiCA_4, my friend had the lemon pancakes
+ PiHKU3P3n-TokUF47EOb7A_13, i suggest that you share it with a friend or two since i couldn't finish it
+ uHnPw0BaI_9ov864JvFgVQ_11, my friend if we wanted an outdoor table
+ o1kizynVgQqtfGFPZGCPMQ_2, waited 10mins to sit inside with a couple of friends for dinner
+ 0fBurYlsBOYRVCaQYU8XRg_2,  my friend
+
+
+ n't
+ did
+ ca
+ was
+ really
+ know
+ waiting
+ this
+
+
+Cluster 41 titles:
+ ZApswa3l72RM9HpDrj_sYA_4,  yelpers, you didn't let us down
+ pyfXJOxC3yvCb5HXoBlejQ_4,  it wasn't the easiest process to make a reservation, the girls at hostess stand weren't the friendliest
+ FEclUIfbmYhR7DJ1QiRlkQ_5, you can't beat the view
+ nr56t9GGPugqYfVycV3_wQ_15,   granted in october the heat was not as bad as it would be in the summer, so i don't know how anyone would eat out there in the summer
+ rFXzCS3PRE1cKUsT7I9VwA_6,   can't wait to go back to try some of their waffles & crepes for breakfast as well as the steaks for dinner
+ 8MIdoQriMiStcRn9NifwAw_14,  the asparagus didn't come until the end of my meal only after i asked about them
+ cusiw1xAhds30E7YnbZ0Mw_13,  my husband noted that it was for my birthday on the reservation, so i don't understand why they didn't make it more pleasant for someone who is having her birthday
+ PiHKU3P3n-TokUF47EOb7A_16, it wasn't really up there at the end
+ uHnPw0BaI_9ov864JvFgVQ_17, we weren't informed abou the wait for the patio before making our decision! so we had to hound them to put us back in our spot in line for an inside table--and they weren't too gracious about it
+ Wnq7GzXfx6f2tcZbGv8XVw_13,  the apple tart is unlike a typical fruit tart - the apple had been cramelized forever so it was very flavorful, the crust wasn't too thick so it didn't overshadow the apple
+
+
+ cheese
+ goat
+ baked
+ blue
+ appetizers
+ was
+ crepe
+ sauce
+
+
+Cluster 42 titles:
+ RkmzregXit1LVU07MJQcCA_8,  blue cheese stuffed olives in my martini is always the best way to get me started
+ 6u1VAEmgCnpImTGPHBIk8w_27, yeah, i was licking the cheese off the side of the bowl
+ ts3T_e_bXQm-DqEgHQdOkw_6,  there was a blue cheese sauce on it
+ IAb5D0evrKhMqzoNagQvQw_4,     the gabitini (vodka martini with blue cheese olives) was delicious
+ fNoEyuXQ5m4SihRbSLvgmA_5, grilled with the ham/bechamel sauce/gruyere cheese
+ EYQkZWhYgW12_-ERV4cJew_10, the cheese make the perfect combo
+ nr56t9GGPugqYfVycV3_wQ_14, the cheese on it was melting in the sun so bad
+ YZvyDEQMNsZ8a7sl98fcgw_3,  the service was good, the melted goat cheese appetizer exquisite,
+ GQP4rdwQRmBZDCqVK4yzog_8,  the baked goat cheese with warm bread is always a hit
+ LR0PN9DtZ_BKo4FvW6DfMw_18,   the hubby got his with bleu cheese - i order with the merlot butter
+
+
+ was
+ good
+ really
+ pretty
+ perfect
+ amazing
+ server
+ everything
+
+
+Cluster 43 titles:
+ pyfXJOxC3yvCb5HXoBlejQ_6,  it was a little awkward because the bar was full of other people waiting,
+ pyfXJOxC3yvCb5HXoBlejQ_3,  it was especially convenient because i was staying in the hotel
+ AFkYlWS8EhofnYEfm2WGww_2,  everyone else in my group was complaining about how their food was bland
+ Xk2_Np5Y0cagdAlyqxUbXA_13, that was also included on top of the hash
+ BHW3_jtVooTOMU8Rquoh8Q_37,  the crust was this perfect biscuit/wafer
+ b1xj01KUYqTDeyoypfuWoA_6, it was done perfectly
+ HGoX8o35lTv8Z6eobtWpWw_26,  once again, that's where the bread came in handy ! the herb butter sauce that the escargot was prepared in was super flavorful, it just had a handful too many pinches of salt
+ DAwaFxVj3EATJX8DVAeiTQ_3, weather were fantastic! our server (think his name was scott) had worked there 10 years
+ gTgbxRzMSPlHE2u_lUKQew_3,   i had the quiche lorraine which was light
+ gTgbxRzMSPlHE2u_lUKQew_1, the strawberry waffle was buttery
+
+
+ was
+ good
+ food
+ vegas
+ this
+ french
+
+
+Cluster 44 titles:
+ Urg_xXut-4JD6R3QWR2YdA_52,  if i had been there the first day, i would have chained my leg to one of the tables on the patio
+ Urg_xXut-4JD6R3QWR2YdA_56,   otherwise, i'll skip the bathroom breaks
+ ZJQIjGbXPMazMh4NQwZhKw_11,  to finish off the night we all shared 3 desserts: a warm berry tart, creme brulee,
+ ilxTxbYvxbVA9XpNeW6D8Q_17,   little quibble but prices should reflect overall service, food, timing
+ ilxTxbYvxbVA9XpNeW6D8Q_10, in the context of vegas, nothing is small so this one has a lot of space
+ mbdw3XrXPCL3VbqtB8kZhQ_18, ! we also split the lemon pancake (probably not the real name of the dish),
+ mbdw3XrXPCL3VbqtB8kZhQ_15,  oh also, fun fact
+ g-db2O2VBEu0XBvLeRO0lg_1, mon ami is a wonderful french bistro serving a great selection of french salads, soups, steaks,
+ g-db2O2VBEu0XBvLeRO0lg_6,   mussels mariniere- fresh, plump mussels served in a tasty white wine, parsley,
+ HGoX8o35lTv8Z6eobtWpWw_24, stay that way throughout your whole meal ! (even 3 hours later back in our room at planet hollywood !)   my escargot was also on the saltier side (seriously, i used to smoke, so i definitely don't eat my food bland
+
+
+ excellent
+ service
+ was
+ food
+ great
+ always
+ steak
+ server
+
+
+Cluster 45 titles:
+ FHWCCea7V2cfD1sVJtoERw_1, excellent food
+ sryIF-TRh-KzWuA_d7aaIg_4,  the service was excellent
+ v3tUjR5PDAKHTgrjXludjA_2,  the food was excellent
+ 90ZMTOkVue1gW2Xed0f9Zw_17, had excellent knowledge of the food
+ ehfJqN-AhPmur0EKdAQ44w_2, excellent service
+ aTS8e6ubv8Z3xlx5E6owOQ_1, wow, what a great restaurant! the service was excellent
+ e0T7QN4iVjK0dbmfp5AqQA_27,  the flavor was excellent
+ yx5ZfTvz1y1_IEsizW3R4Q_24,    service was excellent!  definitely coming back :)
+ H-tnKz-Y2rbyoknvkGCzXQ_9,   service was excellent
+ 8AbkKGYY_M3Pmc67tl0o0A_2,   excellent service
+
+
+ reservation
+ make
+ waiting
+ tables
+ seated
+ time
+ opentable
+ open
+ minutes
+
+
+Cluster 46 titles:
+ pyfXJOxC3yvCb5HXoBlejQ_5,  when we got downstairs at our reservation time we still had to wait about 15 minutes
+ ZJQIjGbXPMazMh4NQwZhKw_14, make a reservation or you will be waiting a long time
+ kL3hnUAT755FVPfqAPFouQ_3,  we had to wait a few minutes even though we had a reservation, which was fine because there are two bars
+ zKewmFSSegXtC47Q7tvbyg_5,   might need a reservation if you want it at night though because they looked packed
+ sryIF-TRh-KzWuA_d7aaIg_2,  i made reservations through open table
+ ofAhxQ6RWtwXm06gaEGwZQ_10, very attentive!   you can't make a reservation to sit in the patio, but this last time around, we came here at 6:30pm (for party of 2) with a normal reservation
+ R_pgkRsuvfZs02DdZCjmDQ_4, they don't take reservations
+ Af8-BkdTo7ITR45afegKIQ_3,   note to self: consider reservations next time
+ e8cjAoWOiA1kJqrLtHiVCg_3,  i made reservation through opentable
+ e8cjAoWOiA1kJqrLtHiVCg_4,  but when i got there, i found out that reservation was only good for inside tables
+
+
+ food
+ good
+ was
+ quality
+ amazing
+ prices
+ fantastic
+ very
+ decent
+
+
+Cluster 47 titles:
+ Urg_xXut-4JD6R3QWR2YdA_50,   because the food was the star of the show
+ AFkYlWS8EhofnYEfm2WGww_1, i got food poisoning here from eating their quiche
+ IAb5D0evrKhMqzoNagQvQw_9, the food was wonderful
+ CZ5pNf3xDCm9tEaNT3s7yg_7, so good!), i thought the food was pretty solid overall (four stars is about right)
+ w2I1LCE8k8JP4cAAxmJiEQ_1, the food here is wonderful
+ OTSDqbwff73wuq2Rxun-2w_1, good food, decent prices for lv
+ bnJSBfcDnn_BGK_2H_QH7Q_22, the food was good but overpriced
+ PiHKU3P3n-TokUF47EOb7A_10,   anyways, off to the food
+ ofAhxQ6RWtwXm06gaEGwZQ_19,  not good
+ 90ZMTOkVue1gW2Xed0f9Zw_19, if the food quality
+
+
+ this
+ place
+ vegas
+ lovely
+ restaurant
+ was
+ really
+ good
+
+
+Cluster 48 titles:
+ AFkYlWS8EhofnYEfm2WGww_7,  i'm not really sure why this place has such high ratings sorry to say it
+ RkmzregXit1LVU07MJQcCA_1, this was my third time on the patio at this classic restaurant
+ ilxTxbYvxbVA9XpNeW6D8Q_15,   in any restaurant, this is not excusable especially for a place not really very crowded
+ OqDrzawAtv2q9nFsJebNdA_3,  this was definitely a highlight of our las vegas trip
+ HESANeRDcryLI-8rqV4pgA_22,  the only other place i have had this level of service recently was in the brennan family restaurants in new orleans
+ 9ElcIxvq53UTUteOvhZGcg_18, would recommend this place to anyone
+ TH4h3nxJXc_aEj0gzfo5rw_4,   this place is fun for that reason
+ TH4h3nxJXc_aEj0gzfo5rw_9, happened upon this place
+ dBruIGAkhOWGYSgIsY2ing_9,  otherwise though this place has 5 stars from top to bottom
+ dBruIGAkhOWGYSgIsY2ing_1, this is hands down one of my favorite places to go in las vegas
+
+
+ nice
+ was
+ very
+ ambiance
+ really
+ waitress
+ atmosphere
+ view
+ patio
+
+
+Cluster 49 titles:
+ FHWCCea7V2cfD1sVJtoERw_3,   paired nicely with a great bordeaux
+ w2I1LCE8k8JP4cAAxmJiEQ_5,  the people we spoke to before arriving were very nice
+ ssT4abqSHLk8chht7SYxFg_27,  at under $16, it was enough to provide a nice buzz
+ uHnPw0BaI_9ov864JvFgVQ_18,   our server was nice,
+ Wnq7GzXfx6f2tcZbGv8XVw_12, very nicely flavored
+ RmI9ihEIYTZyqKbsqRV_vg_11, the chicken skin (my favorite part) was nicely crisped
+ Af8-BkdTo7ITR45afegKIQ_4,    the weather was nice that night
+ GnZotYHCIrPuGPKjhXbq2Q_17, was very nice
+ WW40oeu2WCbt1QRqp8qcyw_21,   the place itself is nice
+ OYCSFXG0RszW5hw-e35npw_5,  nice! we took the buzzer
+
+
+
+
